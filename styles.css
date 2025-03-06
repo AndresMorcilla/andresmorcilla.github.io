@@ -4,3 +4,8 @@ header img {
   left: 1rem;
   height: 50px;
 }
+
+header h1 {
+  font-size: 3rem;
+  margin: 0;
+}
