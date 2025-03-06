@@ -14,5 +14,9 @@ header img {
 }
 
 header {
-  background-color: rgba(0, 151, 255, 0.8);
+  background-color: orange;
+}
+
+body {
+  background-color: yellow;
 }
